@@ -2,7 +2,7 @@
 
 This repository showcases examples of how to test non-deterministic software, including applications using generative AI and Large Language Models (LLMs). It demonstrates various techniques and tools to ensure the reliability and robustness of systems with unpredictable outputs.
 
-This code is used and explained in the [Beyond Traditional Testing: Addressing the Challenges of Non-Deterministic Software](https://dev.to/danilop/) article.
+This code is used and explained in the [Beyond Traditional Testing: Addressing the Challenges of Non-Deterministic Software](https://dev.to/aws/beyond-traditional-testing-addressing-the-challenges-of-non-deterministic-software-583a) article.
 
 ## Features
 
