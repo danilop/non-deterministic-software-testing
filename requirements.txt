@@ -1,0 +1,5 @@
+hypothesis
+pytest
+boto3
+scipy
+scikit-learn
